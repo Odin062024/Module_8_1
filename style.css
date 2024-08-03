@@ -1,1 +1,12 @@
-
+h1 {
+    background:gray;
+    font-weight: 600;
+}
+h2 {
+    font-weight: bold;
+    color: #0000FF;
+    font-size: 40px;
+}
+.third {
+    font-size: 20px;
+}
